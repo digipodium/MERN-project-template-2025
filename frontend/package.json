@@ -13,7 +13,6 @@
     "axios": "^1.8.2",
     "formik": "^2.4.6",
     "next": "15.2.1",
-    "preline": "^3.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.5.2",
@@ -24,6 +23,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.2.1",
+    "preline": "^3.0.0",
     "tailwindcss": "^4"
   }
 }
